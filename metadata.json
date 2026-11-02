@@ -1,0 +1,8 @@
+{
+  "name": "Super Yahtzee Segnapunti",
+  "description": "Scheda segnapunti interattiva e minimalista per Super Yahtzee con calcolo automatico, validazione regole, profili giocatori e statistiche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
